@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ✍️
 
 Me chamo Thiago, sou Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
