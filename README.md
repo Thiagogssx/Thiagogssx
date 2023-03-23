@@ -10,7 +10,7 @@ Me chamo Thiago, sou Programador Front End, atualmente estou aprendendo e criand
  ### Conecte-se comigo:
  
  <p>
- <a href="https://www.linkedin.com/in/thiagoguerreiro1/"> <img src="https://w7.pngwing.com/pngs/276/472/png-transparent-linkedin-computer-icons-blog-logo-watercolor-butterfly-angle-text-rectangle.png" alt ="linkedin-logo" width="38px"></a>
+ <a href="https://www.linkedin.com/in/thiagoguerreiro1/"> <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-1464529-1239440.png" alt ="linkedin-logo" width="21px"></a>
  <a href="https://www.instagram.com/thiago_sguerreiro/"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="instagram-logo" width="20px"></a>
  <p>
  
