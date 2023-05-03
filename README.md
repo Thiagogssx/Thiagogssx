@@ -14,6 +14,6 @@ Me chamo Thiago, sou Programador Front End, atualmente estou aprendendo e criand
  <a href="https://www.instagram.com/thiago_sguerreiro/"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="instagram-logo" width="20px"></a>
  <p>
  
- [![Thiago stats](https://github-readme-stats.vercel.app/api?username=Thiagogssx)](https://github.com/anuraghazra/github-readme-stats)
+ [![Thiago stats](https://github-readme-stats.vercel.app/api?username=guerreirothiago)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagogssx)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guerreirothiago)](https://github.com/anuraghazra/github-readme-stats)
